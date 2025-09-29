@@ -35,7 +35,7 @@ Por último, cambiamos la ubicación de la carpeta para que esté dentro de un s
 ## Paso 3:
 
 
-# Paso 4:
+## Paso 4:
 
 
-#Paso 5:
+## Paso 5:
