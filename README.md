@@ -57,5 +57,40 @@ Para este paso tendremos que acceder a la raíz de MySQL para crear una base de 
 <img width="942" height="523" alt="Captura desde 2025-09-29 09-06-01" src="https://github.com/user-attachments/assets/81f21a9a-19f6-4d23-a03f-e33ea8933096" />
 
 
-#Paso 5:
-Ahora con el comando "sudo -u www-data cp /srv/www/wordpress/wp-config-sample.php /srv/www/wordpress/wp-config.php" podemos crear el archivo de configuración de WordPress
+## Paso 5:
+Ahora con el comando "sudo -u www-data cp /srv/www/wordpress/wp-config-sample.php /srv/www/wordpress/wp-config.php" podemos crear el archivo de configuración de WordPress y, con los otros comandos, seremos capaces de darle las credenciales que necesita.
+
+
+<img width="1400" height="80" alt="Captura desde 2025-09-29 09-07-24" src="https://github.com/user-attachments/assets/76c07232-22cb-4d17-94db-e359218cc300" />
+
+Ahora, hay que configurar la dirección del mismo con el código "sudo -u www-data nano /srv/www/wordpress/wp-config.php". Para esto, utilizaremos una página de WordPress que facilita unos códigos generadors aleatoriamente para hacer que nuestro sitio sea más seguro.
+
+
+<img width="800" height="1048" alt="Captura desde 2025-09-29 09-07-55" src="https://github.com/user-attachments/assets/c34eef88-57c2-4092-bc36-3bbdeb806db0" /> <img width="800" height="928" alt="Captura desde 2025-09-29 09-10-02" src="https://github.com/user-attachments/assets/450ccd00-2b62-4c9e-a465-c929758d2412" />
+
+
+## Último paso:
+Con todo lo anterior ya configurado. Podremos abrir la página http://localhost/ y desde ahí ya podemos poner todas las credenciales, como correo electrónico, nombre de la página, contraseña de la cuenta, entre otros, y ya tendríamos nuestro WordPress configurado.
+
+
+<img width="800" height="890" alt="Captura desde 2025-09-29 09-11-43" src="https://github.com/user-attachments/assets/737abe4b-a924-45c6-aee4-379f0f6d82d5" />
+
+
+En esta pantalla se nos da la opción de elegir el idioma que queramos.
+
+
+<img width="800" height="976" alt="Captura desde 2025-09-29 09-12-43" src="https://github.com/user-attachments/assets/8853ba6b-2406-47d1-bf9c-48f47e1f0bb8" />
+
+
+Y aquí es donde introduciríamos nuestras credenciales.
+
+# FIN
+
+
+
+
+
+
+
+
+
