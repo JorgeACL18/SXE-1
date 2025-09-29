@@ -30,3 +30,12 @@ Por último, cambiamos la ubicación de la carpeta para que esté dentro de un s
 
 
 <img width="800" height="179" alt="Captura desde 2025-09-29 09-55-19" src="https://github.com/user-attachments/assets/3c65494d-ecdd-4568-bbd4-22dab34b6d8c" />
+
+
+## Paso 3:
+
+
+# Paso 4:
+
+
+#Paso 5:
